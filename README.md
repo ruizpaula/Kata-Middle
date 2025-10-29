@@ -17,12 +17,12 @@ Permite gestionar usuarios, cursos, progreso académico e insignias obtenidas po
 
 | Capa | Tecnología |
 |------|-------------|
-| Frontend | Angular 17 |
-| Backend | Spring Boot 3 |
+| Frontend | Angular |
+| Backend | Spring Boot |
 | Base de Datos | MySQL |
 | ORM | JPA / Hibernate |
-| Seguridad | JWT |
-| Herramientas | IntelliJ IDEA, Visual Studio Code, Postman |
+| AWS | EC2,S3,RDS |
+| Herramientas | IntelliJ IDEA, Visual Studio Code, Postman, Docker |
 
 ---
 
